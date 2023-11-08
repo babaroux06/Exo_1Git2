@@ -16,7 +16,7 @@ public class Nol
     public Nol()
     {
         // initialisation des variables d'instance
-        x = 0;
+        x = 67;
     }
 
     /**
